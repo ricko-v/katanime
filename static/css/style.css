@@ -1,0 +1,38 @@
+* {
+    font-family: 'Gideon Roman', 'Times New Roman';
+}
+
+body {
+    background-color: silver;
+}
+
+.icon-lang {
+    max-width: 20px !important;
+}
+
+.icon-botbar {
+    width: 1.3em;
+}
+
+.list-anime li {
+    background-color: #27323A;
+    color: white;
+    border-bottom: 1px solid grey;
+}
+
+.filter-judul, .btn-filter-judul {
+    background-color: #27323A !important;
+    color: white !important;
+}
+
+a, input, button {
+    outline: none !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.lang {
+    max-width: 20px;
+}

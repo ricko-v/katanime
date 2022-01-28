@@ -1,0 +1,29 @@
+{
+  "name": "katanime",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "animequotes": "^2.0.0",
+    "core-js": "^3.19.3",
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "html-to-image": "^1.9.0",
+    "nuxt": "^2.15.8",
+    "request": "^2.88.2",
+    "vue": "^2.6.14",
+    "vue-infinite-loading": "^2.4.5",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {}
+}
