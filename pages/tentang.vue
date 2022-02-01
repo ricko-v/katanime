@@ -6,7 +6,7 @@
             <div class="card-body">
                 <h3 class="card-title m-0 mb-3 p-0 text-center">Tentang</h3>
                 <p class='mb-0'>Katanime adalah sebuah website yang mengumpulkan kata-kata dari anime. Untuk saat ini tersedia dalam dua bahasa; Indonesia dan Inggris. Saya juga menyediakan API yang barangkali berguna bagi teman-teman.</p>
-                <p class='text-center mb-0 mt-3 text-secondary'><b><small>&copy;2022 by ricko-v</small></b></p>
+                <p class='text-center mb-0 mt-3 text-secondary'><b><small>&copy;2022 by <a href='https://github.com/ricko-v/katanime' target='_blank'>ricko-v</a></small></b></p>
             </div>
         </div>
     </div>
