@@ -15,7 +15,7 @@ app.use(function (req, res, next) {
 });
 
 app.get('/api/getrandom', (req, res) => {
-    getRandom(req.query.limit)
+    getRandom()
         .then(response => {
             res.json(response)
         })
