@@ -3,6 +3,8 @@ Adalah project yang mengumpulkan kata-kata karakter anime. Saat ini tersedia dal
 
 Website: [https://katanime.vercel.app/](https://katanime.vercel.app/)
 
+Aplikasi: [katanime.apk](https://github.com/ricko-v/katanime/releases/download/QuotesAnime/katanime.apk)
+
 API: [https://katanime.vercel.app/developer-api](https://katanime.vercel.app/developer-api)
 
 Total Kata: 5530
