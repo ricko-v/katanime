@@ -7,7 +7,7 @@ Aplikasi: [katanime.apk](https://github.com/ricko-v/katanime/releases/download/Q
 
 API: [https://katanime.vercel.app/developer-api](https://katanime.vercel.app/developer-api)
 
-Total Kata: 5530
+Total Kata: 6548
 
 ## Tech
 - [x] NuxtJS
