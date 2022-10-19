@@ -37,3 +37,5 @@ $ npm run generate
 # deploy to vercel
 $ npm run deploy
 ```
+# Showcase Project
+tambah disini project keren milik kalian
